@@ -82,7 +82,7 @@ https://github.com/peviitor-ro/spider_web_scraper_jmeker [JMeter] -->
   <br><br>
   <b><a href="https:/">Devblogs</a></b> - Periodic development blogs.
   <br>
-  <b><a href="https://">About</a></b> - About Pe Viitor and *beep.
+  <b><a href="https://">About</a></b> - About Pe Viitor.
   <br>
   <b><a href="https://">FAQ</a></b> - Frequently Asked Questions.
   <br>
